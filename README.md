@@ -1,2 +1,10 @@
-# amxx-csgo-ammo
-Simple AMXX plugin for CS 1.6 which eliminates the need of buying ammo.
+# AMXX - Ammo (CSGO-like)
+
+Lightweight AMXX plugin for your CS 1.6 AMXX server.
+
+
+#Features
+
+- Makes your ammo fill up automatically at player spawn
+- No ads
+- Really lightweight
