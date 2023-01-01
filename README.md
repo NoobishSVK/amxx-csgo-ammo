@@ -3,8 +3,11 @@
 Lightweight AMXX plugin for your CS 1.6 AMXX server.
 
 
-#Features
+## Features
 
 - Makes your ammo fill up automatically at player spawn
-- No ads
-- Really lightweight
+- Lightweight
+
+## Installation
+- Put the amxx file into your amxmodx/plugins folder
+- In configs, add the .amxx plugin name at the end of the config
